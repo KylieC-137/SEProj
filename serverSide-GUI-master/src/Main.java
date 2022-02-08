@@ -1,6 +1,5 @@
 // Blade Team: Derek Armaan Kylie
 //GUI layout for application
-// May 2020
 
 import java.io.FileNotFoundException;
 import java.util.Date;
